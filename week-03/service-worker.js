@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.333e348a3a20a7a5d0b7aacf6acc0fe5.js"
+  "precache-manifest.9932e04da11227c1f5585b21689bda9e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mp3-player"});
